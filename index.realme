@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewPort" count="width=device=width, inital-scale=1.0">
+    <title> simple HTML page </title>
+</head>
+<body>
+    <h1> This is my sample of code </h1>    
+    <h2> Welcome to my simple webpage </h2>
+    <p> This is a simple html page to demonistrate basic element </p>
+    <a href="https://www.example"> Click here to visit Examole </a>
+</body>
+</html>
+
